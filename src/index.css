@@ -1,0 +1,8 @@
+.borders{
+    border: dotted 2px;
+    justify-content: center !important;
+    width: 50% !important;
+}
+.drop-content{
+    text-align: center !important;
+}
